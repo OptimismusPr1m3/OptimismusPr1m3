@@ -3,8 +3,8 @@
 🚀 **Junior Fullstack Developer** | **Angular & Django** 🌐  
 
 ## 👨‍💻 About Me  
-- 🔭 **Current Project:** *Sharkie* – A jump-and-run game ported and reworked with Angular(TypeScript) + Phaser.  
-- 🎥 **Latest Project:** *VideoFlix* – A Netflix-/YouTube-inspired streaming platform showcasing my fullstack development skills , Backend runs on a Raspberry PI 5.  
+- 🔭 **Current Project:** [Sharkie](https://github.com/OptimismusPr1m3/sharkie_ng_phaser) – A jump-and-run game ported and reworked with Angular(TypeScript) + Phaser.  
+- 🎥 **Latest Project:** *[VideoFlix](https://github.com/OptimismusPr1m3/videoflix_front)* – A Netflix-/YouTube-inspired streaming platform showcasing my fullstack development skills , Backend runs on a Raspberry PI 5.  
 - 💼 **Recent Project:** *DABubble* – A Chat messenger inspired by Slack. Database runs with Firebase
 
 ## 🛠️ Technologies & Tools  
