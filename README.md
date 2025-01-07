@@ -10,12 +10,14 @@
 ## 🛠️ Technologies & Tools  
 
 ### **Frontend**  
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![TYPESCRIPT](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white) ![JAVASCRIPT](https://img.shields.io/badge/javascript-gold?style=for-the-badge&logo=javascript&logoColor=gray&logoSize=24) ![SASS](https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)   ![CSS3](https://img.shields.io/badge/css3-blue?style=for-the-badge&logo=css3&logoColor=white&logoSize=24) ![Static Badge](https://img.shields.io/badge/html-orange?style=for-the-badge&logo=html5&logoColor=white&logoSize=24)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![TYPESCRIPT](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white) ![JAVASCRIPT](https://img.shields.io/badge/javascript-gold?style=for-the-badge&logo=javascript&logoColor=gray&logoSize=24) ![SASS](https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)   ![CSS3](https://img.shields.io/badge/css3-blue?style=for-the-badge&logo=css3&logoColor=white&logoSize=24) ![Static Badge](https://img.shields.io/badge/html-orange?style=for-the-badge&logo=html5&logoColor=white&logoSize=24) ![Static Badge](https://img.shields.io/badge/firebase-white?style=for-the-badge&logo=firebase&logoColor=white&logoSize=24&color=%23DD2C01)
 
 ### **Backend**  
-`Django` `Python` `Redis` `Celery` `SQLite/PostgreSQL` `Postman` 
-### **DevOps**  
-`Linux (Raspberry Pi)` `Ubuntu Server` `Nginx` `Docker (planned)`  
+![Static Badge](https://img.shields.io/badge/django-white?style=for-the-badge&logo=django&logoColor=white&logoSize=24&color=%23092E20) ![Static Badge](https://img.shields.io/badge/python-white?style=for-the-badge&logo=python&logoColor=white&logoSize=24&color=%233776AB) ![Static Badge](https://img.shields.io/badge/redis-white?style=for-the-badge&logo=redis&logoColor=white&logoSize=24&color=%23FF4438) ![Static Badge](https://img.shields.io/badge/celery-white?style=for-the-badge&logo=celery&logoColor=white&logoSize=24&color=%2337814A) ![Static Badge](https://img.shields.io/badge/sqlite-white?style=for-the-badge&logo=sqlite&logoColor=white&logoSize=24&color=%23003B57) ![Static Badge](https://img.shields.io/badge/postgresql-white?style=for-the-badge&logo=postgresql&logoColor=white&logoSize=24&color=%234169E1) ![Static Badge](https://img.shields.io/badge/postman-white?style=for-the-badge&logo=postman&logoColor=white&logoSize=24&color=%23FF6C37)
+
+<!--### **DevOps**  
+`Linux` `Ubuntu Server` `Nginx` `Docker` -->
+
 ### **Other Tools**  
 `FFmpeg` `Redis` `Celery` `pytest` `Git & GitHub`  
 
