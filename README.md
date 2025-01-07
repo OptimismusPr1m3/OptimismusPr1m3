@@ -1,6 +1,6 @@
  <h1 align="center"> Hi there I'm Sebastian Wolff👋 </h1>
 
-<p align="center">🚀 **Junior Fullstack Developer** | **Angular & Django** 🌐 </p>  
+<h3 align="center">🚀 Junior Fullstack Developer | Angular & Django 🌐 </h3>  
 
 ## 👨‍💻 About Me  
 - 🔭 **Current Project:** [Sharkie](https://github.com/OptimismusPr1m3/sharkie_ng_phaser) – A Jump & Run game ported and reworked with Angular + Phaser.  
