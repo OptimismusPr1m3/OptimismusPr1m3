@@ -9,14 +9,8 @@
 
 ## 🛠️ Technologies & Tools  
 
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
 ### **Frontend**  
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![Static Badge](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white) ![Static Badge](https://img.shields.io/badge/javascript-gold?style=for-the-badge&logo=javascript&logoColor=gray&logoSize=24) ![Static Badge](https://img.shields.io/badge/scss-blue?style=for-the-badge&logo=css3&logoColor=white&logoSize=24) ![Static Badge](https://img.shields.io/badge/html-orange?style=for-the-badge&logo=html5&logoColor=white&logoSize=24)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![Static Badge](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white) ![Static Badge](https://img.shields.io/badge/javascript-gold?style=for-the-badge&logo=javascript&logoColor=gray&logoSize=24) ![Static Badge](https://img.shields.io/badge/scss-blue?style=for-the-badge&logo=css3&logoColor=white&logoSize=24) ![Static Badge](https://img.shields.io/badge/html-orange?style=for-the-badge&logo=html5&logoColor=white&logoSize=24) ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)  
 
 ### **Backend**  
 `Django` `Python` `Redis` `Celery` `SQLite/PostgreSQL` `Postman` 
