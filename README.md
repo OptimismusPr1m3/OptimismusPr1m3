@@ -10,7 +10,7 @@
 ## 🛠️ Technologies & Tools  
 
 ### **Frontend**  
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![Static Badge](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white) ![Static Badge](https://img.shields.io/badge/javascript-gold?style=for-the-badge&logo=javascript&logoColor=gray&logoSize=24) ![SASS](https://img.shields.io/badge/CSS3-CC6699?style=for-the-badge&logo=sass&logoColor=white)   ![Static Badge](https://img.shields.io/badge/scss-blue?style=for-the-badge&logo=css3&logoColor=white&logoSize=24) ![Static Badge](https://img.shields.io/badge/html-orange?style=for-the-badge&logo=html5&logoColor=white&logoSize=24)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![TYPESCRIPT](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white) ![JAVASCRIPT](https://img.shields.io/badge/javascript-gold?style=for-the-badge&logo=javascript&logoColor=gray&logoSize=24) ![SASS](https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)   ![CSS3](https://img.shields.io/badge/css3-blue?style=for-the-badge&logo=css3&logoColor=white&logoSize=24) ![Static Badge](https://img.shields.io/badge/html-orange?style=for-the-badge&logo=html5&logoColor=white&logoSize=24)
 
 ### **Backend**  
 `Django` `Python` `Redis` `Celery` `SQLite/PostgreSQL` `Postman` 
