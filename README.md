@@ -1,4 +1,4 @@
-## <h1 align="center"> Hi there I'm Sebastian Wolff👋 </h1>
+ <h1 align="center"> Hi there I'm Sebastian Wolff👋 </h1>
 
 🚀 **Junior Fullstack Developer** | **Angular & Django** 🌐  
 
