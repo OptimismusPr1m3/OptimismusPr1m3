@@ -3,9 +3,9 @@
 🚀 **Junior Fullstack Developer** | **Angular & Django** 🌐  
 
 ## 👨‍💻 About Me  
-- 🔭 **Current Project:** [Sharkie](https://github.com/OptimismusPr1m3/sharkie_ng_phaser) – A jump-and-run game ported and reworked with Angular(TypeScript) + Phaser.  
-- 🎥 **Latest Project:** *[VideoFlix](https://github.com/OptimismusPr1m3/videoflix_front)* – A Netflix-/YouTube-inspired streaming platform showcasing my fullstack development skills , Backend runs on a Raspberry PI 5.  
-- 💼 **Recent Project:** *DABubble* – A Chat messenger inspired by Slack. Database runs with Firebase
+- 🔭 **Current Project:** [Sharkie](https://github.com/OptimismusPr1m3/sharkie_ng_phaser) – A Jump & Run game ported and reworked with Angular + Phaser.  
+- 🎥 **Latest Project:** [VideoFlix](https://github.com/OptimismusPr1m3/videoflix_front) – A Netflix-/YouTube-inspired streaming platform showcasing my fullstack development skills. Backend runs on a Raspberry PI 5.  
+- 💼 **Recent Project:** [DABubble](https://github.com/OptimismusPr1m3/DABubble_group) – A chat messenger inspired by Slack, featuring real-time messaging powered by Firebase.
 
 ## 🛠️ Technologies & Tools  
 
@@ -22,23 +22,27 @@
 ### **Other Tools**  
 ![POSTMAN](https://img.shields.io/badge/postman-white?style=for-the-badge&logo=postman&logoColor=white&logoSize=24&color=%23FF6C37) ![Static Badge](https://img.shields.io/badge/ffmpeg-white?style=for-the-badge&logo=ffmpeg&logoColor=white&logoSize=24&color=%23007808) 
 
+
 ## 🌱 Currently Exploring  
-- Phaser 
-- 
--  
+- Phaser – 2D game development framework for real-time animations
+- Docker – Containerization for consistent and isolated environments
+
+  
+
+## 👀 Looking to Explore  
+- **Three.js** – For REST APIs and microservices  
+- **WebGL** – For REST APIs and microservices  
+- **Tiled** – For REST APIs and microservices  
+- **MongoDB** – For NoSQL databases and complex data models  
+- **Docker Deployment** – For simple and portable releases  
+- **Advanced Testing** – Using Postman and unit testing for backend workflows
+
+  
 
 ## 📫 Let's Connect!  
 - 🌍 [My Website](https://bastian-wolff.de)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/sebastian-wolff-4409832b3)  
 - ✉️ kontakt@bastian-wolff.de
-
-<!--## 👀 Looking to Explore  
-- **Express.js & Node.js** – For REST APIs and microservices  
-- **MongoDB** – For NoSQL databases and complex data models  
-- **Docker Deployment** – For simple and portable releases  
-- **Advanced Testing** – Using Postman and unit testing for backend workflows  
--->
-
 
 
 <!--
