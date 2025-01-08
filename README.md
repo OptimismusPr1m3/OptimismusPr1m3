@@ -4,7 +4,7 @@
 
 ## 👨‍💻 About Me  
 - 🔭 **Current Project:** [Sharkie](https://github.com/OptimismusPr1m3/sharkie_ng_phaser) – A Jump & Run game ported and reworked with Angular + Phaser.  
-- 🎥 **Latest Project:** [VideoFlix](https://github.com/OptimismusPr1m3/videoflix_front) – A Netflix-/YouTube-inspired streaming platform showcasing my fullstack development skills. Backend runs on a Raspberry PI 5.  
+- 🎥 **Latest Project:** [VideoFlix](https://github.com/OptimismusPr1m3/videoflix_front) – A Netflix-/YouTube-inspired streaming platform showcasing my fullstack development skills.
 - 💼 **Recent Project:** [DABubble](https://github.com/OptimismusPr1m3/DABubble_group) – A chat messenger inspired by Slack, featuring real-time messaging powered by Firebase.
 
 ## 🛠️ Technologies & Tools  
@@ -30,9 +30,9 @@
   
 
 ## 👀 Looking to Explore  
-- **Three.js** – For REST APIs and microservices  
-- **WebGL** – For REST APIs and microservices  
-- **Tiled** – For REST APIs and microservices  
+- **Three.js** –   
+- **WebGL** –  
+- **Tiled** – 
 - **MongoDB** – For NoSQL databases and complex data models  
 - **Docker Deployment** – For simple and portable releases  
 - **Advanced Testing** – Using Postman and unit testing for backend workflows
